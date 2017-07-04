@@ -1,10 +1,13 @@
 title: generic-analogue-digital
 hero_image: images/banner.png
-subtitle: generic-analogue-digital subtitle
-description: generic-analogue-digital description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: The difference between analogue and digital
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+ingredient: true
+listed: false
+copyedit: false
+interests: 
+technologies
 steps:
-  - title: Step one
-    duration: 60
+  - title: Analogue and digital
