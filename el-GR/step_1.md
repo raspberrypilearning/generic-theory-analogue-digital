@@ -1,11 +1,11 @@
-### Analogue and digital
+### Αναλογικό και ψηφιακό
 
-You've probably heard the terms 'analogue' and 'digital' before, but you may not have really understood what they mean. An easy way to imagine the difference between analogue and digital is to think of the average modern-day games controller.
+Πιθανότατα έχεις ακούσει τους όρους «αναλογικό» και «ψηφιακό» πριν, αλλά ίσως να μην έχεις καταλάβει τι ακριβώς σημαίνουν. Ένας εύκολος τρόπος να φανταστεί κανείς τη διαφορά μεταξύ αναλογικού και ψηφιακού είναι να σκεφτεί ένα τυπικό χειριστήριο - joystick σύγχρονων παιχνιδιών.
 
-<a title="By Evan-Amos (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AXbox-Duke-Controller.jpg"><img width="512" alt="Xbox-Duke-Controller" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xbox-Duke-Controller.jpg/512px-Xbox-Duke-Controller.jpg"/></a>
+<a title="Από τον Evan-Amos (δική του δουλειά) [CC0], μέσω του Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AXbox-Duke-Controller.jpg"><img width="512" alt="Xbox-Duke-Controller" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xbox-Duke-Controller.jpg/512px-Xbox-Duke-Controller.jpg"/></a>
 
-You will notice that on this games controller there are four coloured buttons, and below them a small joystick.
+Θα παρατήρησες ότι σε αυτό το χειριστήριο παιχνιδιών υπάρχουν τέσσερα έγχρωμα κουμπιά, και κάτω από αυτά ένα μικρό joystick.
 
-The buttons are all considered digital input devices. This is because they have only two states — 'pressed' or 'not pressed'. If a signal, bit of data, or physical device can only a set number of states, it is digital. The states can be anything: on/off, 0/1, True/False, etc.
+Όλα τα κουμπιά θεωρούνται ψηφιακές συσκευές εισόδου. Αυτό συμβαίνει επειδή έχουν μόνο δύο καταστάσεις - «πατημένο» ή «μη πατημένο». Εάν ένα σήμα, ένα κομμάτι δεδομένων ή μια φυσική συσκευή μπορεί να έχει μόνο έναν καθορισμένο αριθμό καταστάσεων, είναι ψηφιακό. Οι καταστάσεις μπορούν να είναι οτιδήποτε: on/off, 0/1, Αληθής/Ψευδής, κλπ.
 
-The joystick, on the other hand, is an analogue input device, because it can have an almost infinite range of states. You can push it all the way forward, and this might cause the character you're controlling to travel at their top speed. Move the joystick backwards a fraction, and they'll slow down. Move it back a fraction more, and they'll slow down even more. In theory there's no smallest amount by which the joystick can be moved. Analogue data, signals, and devices can have ranges of states. For example, your game character can travel at any speed between its top speed and being motionless.
+Το joystick, από την άλλη πλευρά, είναι μια συσκευή αναλογικής εισόδου, επειδή μπορεί να έχει σχεδόν άπειρο εύρος καταστάσεων. Μπορείς να το σπρώξεις προς τα εμπρός και αυτό μπορεί να κάνει τον χαρακτήρα που ελέγχεις να ταξιδέψει με την μέγιστη ταχύτητα. Μετακινήσε το joystick προς τα πίσω για λίγο και ο χαρακτήρας θα επιβραδυνθεί. Μετακινησέ το πίσω λίγο περισσότερο, και θα επιβραδύνει ακόμη πιό πολύ. Θεωρητικά δεν υπάρχει μικρότερο ποσό με το οποίο μπορεί να μετακινηθεί το joystick. Τα αναλογικά δεδομένα, σήματα και συσκευές μπορούν να έχουν μεγάλο εύρος καταστάσεων. Για παράδειγμα, ο χαρακτήρας του παιχνιδιού σου μπορεί να ταξιδέψει με οποιαδήποτε ταχύτητα μεταξύ της μέγιστης του ταχύτητας και της ακινησίας.
