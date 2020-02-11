@@ -1,7 +1,7 @@
 ---
 title: generic-analogue-digital
 hero_image: images/banner.png
-description: The difference between analogue and digital
+description: Η διαφορά μεταξύ αναλογικού και ψηφιακού
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies:
 steps:
   - 
-    title: Analogue and digital
+    title: Αναλογικό και ψηφιακό
